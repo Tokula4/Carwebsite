@@ -28,7 +28,7 @@ function ContactForm() {
 <div className="container p-3 px-6 mx-auto my-24 " >
     <section className="p-2 mb-32 text-white-800" >
       
-      <div className="flex flex-wrap mx-auto mt-8 md:-mx-4" >
+      <div className="mx-auto mt-8 xl:flex-wrap lg:flex xl:flex md:-mx-4" >
         <div>
           <img  width={1000} height={1000}  src="/email-bg.png" />
         </div>
